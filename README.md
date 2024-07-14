@@ -25,8 +25,6 @@ I'm an intern at Infosys Springboard and a Computer Science and Machine Learning
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MAYALURI-ANUSHA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Achievements
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api/achievements/MAYALURI-ANUSHA)
 
 
 
