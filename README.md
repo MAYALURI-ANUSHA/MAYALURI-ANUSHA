@@ -13,7 +13,7 @@ I'm an intern at Infosys Springboard and a Computer Science and Machine Learning
 - **[Language Translation System](https://github.com/LanguageTranslationOrg/LanguageTranslationSystem)**: Created a system to translate text into multiple Indian languages.
 
 ## Certifications
-- Microsoft Certified
+- Microsoft Certified - Azure AI Fundamentals AI-900
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/mayaluri-anusha/)
