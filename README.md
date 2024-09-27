@@ -13,17 +13,31 @@ I'm an intern at Infosys Springboard and a Computer Science and Machine Learning
 - **[Language Translation System](https://github.com/LanguageTranslationOrg/LanguageTranslationSystem)**: Created a system to translate text into multiple Indian languages.
 
 ## Certifications
-- Microsoft Certified - Azure AI Fundamentals AI-900
+- Microsoft Certified - Azure AI Fundamentals AI-900 - 2024
+- Oracle Cloud Infrastructure Generative AI Professional Certification - 2024
+- Github Foundations - 2024
+
+## GitHub Stats
+![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYALURI-ANUSHA&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAYALURI-ANUSHA&show_icons=true&locale=en&layout=compact&theme=blue-green)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MAYALURI-ANUSHA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=MAYALURI-ANUSHA&theme=radical)](https://git.io/streak-stats)
+
+
+---
 
 ## Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayaluri-anusha/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayalurianusha@gmail.com)
 
-## GitHub Stats
-![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYALURI-ANUSHA&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MAYALURI-ANUSHA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
