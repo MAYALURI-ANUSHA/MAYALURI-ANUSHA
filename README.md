@@ -4,6 +4,7 @@ I'm an intern at Infosys Springboard and a Computer Science and Machine Learning
 
 ## Skills
 - **Languages**: Python, Java
+- **Frontend**: Html, Css, JavaScript, React.js
 - **Query Languages**: MySQL, Oracle
 - **Frameworks**: PyTorch, Flask
 - **Tools**: Git, VSCode, Figma
